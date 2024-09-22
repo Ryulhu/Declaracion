@@ -1,4 +1,4 @@
-# Declaracion (El boton no cambia de posicion cada que pasas el cursor por encima)
+# Declaracion (El boton "no" cambia de posicion cada que pasas el cursor por encima)
 
 ¡Hola! Soy [Ryulhu](https://github.com/Ryulhu) y estoy encantado de conocerte.
 
